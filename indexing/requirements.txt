@@ -1,0 +1,5 @@
+# Dependencies for building the vector index
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+tqdm>=4.65.0
+numpy>=1.24.0
